@@ -1,0 +1,4 @@
+repository "MythologyGraduateTeam@Wadaha@cloud"
+  path "/"
+    br "/main"
+    co "/main"

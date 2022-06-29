@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298968481502",
+    "project_id": "mythologyproject-7353d",
+    "storage_bucket": "mythologyproject-7353d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298968481502:android:2d3ddfaa48b8a5fec10c4f",
+        "android_client_info": {
+          "package_name": "com.Mythology.Kaiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298968481502-kj73tic2820are44e7bu9154mhvtbgau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcm0DZqD2IE5r09fwaMWVhacipp12W65M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298968481502-kj73tic2820are44e7bu9154mhvtbgau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+{
+    "weaponDataArray": [
+        {
+            "nowWeapon": 0,
+            "attackRadius": 0.0,
+            "attackAngle": 0.0,
+            "attackDamage": 0.0
+        },
+        {
+            "nowWeapon": 0,
+            "attackRadius": 0.0,
+            "attackAngle": 0.0,
+            "attackDamage": 0.0
+        },
+        {
+            "nowWeapon": 0,
+            "attackRadius": 0.0,
+            "attackAngle": 0.0,
+            "attackDamage": 0.0
+        },
+        {
+            "nowWeapon": 0,
+            "attackRadius": 0.0,
+            "attackAngle": 0.0,
+            "attackDamage": 0.0
+        },
+        {
+            "nowWeapon": 0,
+            "attackRadius": 0.0,
+            "attackAngle": 0.0,
+            "attackDamage": 0.0
+        }
+    ]
+}

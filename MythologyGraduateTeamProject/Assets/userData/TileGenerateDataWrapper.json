@@ -1,0 +1,21 @@
+{
+  "tileGenerateDataArray": [
+    {
+      "probability": 150,
+      "tileTypeString": "Default"
+    },
+    {
+      "probability": 3,
+      "tileTypeString": "Wall"
+    },
+    {
+      "probability": 2,
+      "tileTypeString": "PackedItem",
+      "raidSize": 2
+    },
+    {
+      "probability": 4,
+      "tileTypeString": "Creep"
+    }
+  ]
+}

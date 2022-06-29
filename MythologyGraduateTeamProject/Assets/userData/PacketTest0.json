@@ -1,0 +1,416 @@
+{
+    "packetList": [
+        {
+            "continuousDataList": [
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": -0.23300808668136598,
+                            "y": 26.45401382446289
+                        },
+                        "rotation": 90.0
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": -0.06466332077980042,
+                            "y": 26.45401382446289
+                        },
+                        "rotation": 90.0
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.05850059539079666,
+                            "y": 26.50503158569336
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.14352752268314362,
+                            "y": 26.59006118774414
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.22855444252490998,
+                            "y": 26.675090789794923
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.3305867612361908,
+                            "y": 26.77712631225586
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.41561368107795718,
+                            "y": 26.86215591430664
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.5006406307220459,
+                            "y": 26.947185516357423
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.6026729345321655,
+                            "y": 27.04922103881836
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.6876998543739319,
+                            "y": 27.13425064086914
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.7727267742156982,
+                            "y": 27.219280242919923
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.8747590780258179,
+                            "y": 27.32131576538086
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 0.9597859978675842,
+                            "y": 27.40634536743164
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.0448130369186402,
+                            "y": 27.491374969482423
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.1468456983566285,
+                            "y": 27.59341049194336
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.2318729162216187,
+                            "y": 27.67844009399414
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.333905577659607,
+                            "y": 27.780475616455079
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.4189327955245972,
+                            "y": 27.86550521850586
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.5039600133895875,
+                            "y": 27.95053482055664
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.5889872312545777,
+                            "y": 28.035564422607423
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.691019892692566,
+                            "y": 28.13759994506836
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.7760471105575562,
+                            "y": 28.22262954711914
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.8610743284225464,
+                            "y": 28.307659149169923
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 1.9461015462875367,
+                            "y": 28.392688751220704
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.0311286449432375,
+                            "y": 28.477718353271486
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.1331613063812258,
+                            "y": 28.579753875732423
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.218188524246216,
+                            "y": 28.664783477783204
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.303215742111206,
+                            "y": 28.749813079833986
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.3882429599761965,
+                            "y": 28.834842681884767
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.4902756214141847,
+                            "y": 28.936878204345704
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.575302839279175,
+                            "y": 29.021907806396486
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.660330057144165,
+                            "y": 29.106937408447267
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.7623627185821535,
+                            "y": 29.208972930908204
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.8473899364471437,
+                            "y": 29.294002532958986
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 2.932417154312134,
+                            "y": 29.379032135009767
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 3.017444372177124,
+                            "y": 29.464061737060548
+                        },
+                        "rotation": 45.000003814697269
+                    }
+                },
+                {
+                    "playerContinuousData": {
+                        "playerId": 0,
+                        "playerState": 0,
+                        "worldPosition": {
+                            "x": 3.154696226119995,
+                            "y": 29.481067657470704
+                        },
+                        "rotation": 90.0
+                    }
+                }
+            ],
+            "periodicDataList": []
+        }
+    ]
+}
